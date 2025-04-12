@@ -13,7 +13,7 @@ export default function Home() {
         </h1>
         <h3>Front end Developer</h3>
         <a
-          href="https://drive.google.com/file/d/1EUYfjqEmOWp7XzJuT2kiyO3sPiMlt0xH/view?usp=sharing"
+          href="https://drive.google.com/file/d/1X6VOO8tp-HvaKk3-9f0b3g4OfKYE8VZK/view?usp=sharing"
           className="btn"
           target="_blank"
           rel="noopener noreferrer"
